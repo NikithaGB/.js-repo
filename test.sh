@@ -1,0 +1,3 @@
+APP_NAME=NodeApp
+ENV=DEV
+VERSION=1.0
