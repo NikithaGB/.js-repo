@@ -1,3 +1,5 @@
-$APP_NAME=NodeApp
-$ENV=DEV
-$VERSION=1.0
+#!/bin/bash
+
+APP_NAME=NodeApp
+ENV=DEV
+VERSION=1.0
